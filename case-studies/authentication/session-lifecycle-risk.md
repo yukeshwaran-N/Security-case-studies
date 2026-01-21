@@ -1,12 +1,5 @@
 # Session Lifecycle Risk After Credential Change
 
-## Session Lifecycle Flow
-
-The following diagram illustrates how user expectations diverge from system
-behavior, creating a risk window after a password change.
-
-![Session lifecycle risk after password change](../../Diagrams/session.png)
-
 
 ## Summary
 
@@ -17,6 +10,16 @@ creating a risk of silent account misuse despite a user-initiated security actio
 
 The focus is not on exploitation, but on **risk, user trust, and system behavior
 under real-world conditions**.
+
+---
+
+
+## Session Lifecycle Flow
+
+The following diagram illustrates how user expectations diverge from system
+behavior, creating a risk window after a password change.
+
+![Session lifecycle risk after password change](../../Diagrams/session.png)
 
 ---
 
