@@ -50,8 +50,7 @@ The case studies span multiple security domains, including:
 
 ## Rationale
 
-Security roles at organizations such as **:contentReference[oaicite:0]{index=0}**
-require more than technical knowledge.
+Security roles at organizations operating at scale require more than technical knowledge.
 
 They require the ability to:
 - Evaluate real-world risk
