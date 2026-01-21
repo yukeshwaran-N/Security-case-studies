@@ -5,7 +5,7 @@
 The following diagram illustrates how user expectations diverge from system
 behavior, creating a risk window after a password change.
 
-![Session lifecycle risk after password change](../../diagrams/session-lifecycle-risk.png)
+![Session lifecycle risk after password change](../../Diagrams/session.png)
 
 
 ## Summary
